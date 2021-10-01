@@ -364,10 +364,54 @@ textarea {
     color: #000;
     padding: 0.2em 0;
 }
+body{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+}
 
 .wrapper {
 	max-width:1024px;
 	height: 685px;
 	margin:0 auto;
 	background: url(../img/certjoz.jpg) no-repeat;
+}
+.header__wraper{
+    max-width:1024px;
+    height: 142px;
+    justify-content: flex-end;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.header__wraper-center{
+    width: 800px;
+    height: 30px;
+    background: rgba(196, 196, 196, 0.8);
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+.header__list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header__item{
+    margin-right: 60px;
+}
+.header__item: last-child{
+    margin-right: 0;
+}
+.header__link{
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    text-decoration: none;
+}
+.header__link:hover, .header__link:focus, .header__link:active{
+    opacity: .75;
+    text-decoration: underline;
+
 }
