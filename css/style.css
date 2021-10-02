@@ -415,3 +415,8 @@ body{
     text-decoration: underline;
 
 }
+.header__wrapper-2{
+    background: rgba(0, 0, 0, 0.35);
+    width: 1024px;
+    height: 153px;
+}
