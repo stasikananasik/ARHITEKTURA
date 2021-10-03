@@ -529,11 +529,12 @@ textarea {
        url('../fonts/montserrat-v18-latin-900italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-#body{
-    font-family: Montserrat;
+body{
+    font-family: "Montserrat";
     font-style: normal;
-    font-weight: normal;
+    
 }
+
 
 .wrapper {
     max-width:1024px;
@@ -608,8 +609,7 @@ textarea {
     font-weight: 900;
     font-size: 40px;
     line-height: 49px;
-    color: #000000;
-    margin-right: 200px;
+    margin-right: 170px;
 }
 
 .header__ikonki{
@@ -646,9 +646,4 @@ textarea {
 }
 
 .header__title-2{
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> 7e33d404f86f3bc0726f7f78115583448276b842
