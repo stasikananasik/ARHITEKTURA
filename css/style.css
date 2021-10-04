@@ -417,35 +417,53 @@ body{
     background: url(../img/certjoz.jpg) no-repeat;
 }
 .header__wraper{
+    display: flex;
     max-width:1024px;
     height: 142px;
-    justify-content: flex-end;
-    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
 
 }
 .header__wraper-center{
-    width: 800px;
+    width: 700px;
     height: 30px;
     background: rgba(196, 196, 196, 0.8);
-    display: flex;
-    justify-content: flex-end;
+}
+.header__wrapper-1{
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFCFC;
+
 }
 
+.header__wrapper-adres{
+    width: 320px;
+    height: 120px;
+    background: #010101;
+}
+
+.header__wrapper-niz{
+    width: 320px;
+    height: 22px;
+    background: #FFEB54;
+}
 
 
 .header__list{
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .header__item{
-    margin-right: 60px;
+    margin-right: 50px;
 }
 
-.header__item: last-child{
-    margin-right: 0;
+.header__list: last-child{
+    margin: 20px;
 }
 
 .header__link{
