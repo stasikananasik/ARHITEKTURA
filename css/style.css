@@ -417,35 +417,53 @@ body{
     background: url(../img/certjoz.jpg) no-repeat;
 }
 .header__wraper{
+    display: flex;
     max-width:1024px;
     height: 142px;
-    justify-content: flex-end;
-    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
 
 }
 .header__wraper-center{
-    width: 800px;
+    width: 700px;
     height: 30px;
     background: rgba(196, 196, 196, 0.8);
-    display: flex;
-    justify-content: flex-end;
+}
+.header__wrapper-1{
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFCFC;
+
 }
 
+.header__wrapper-adres{
+    width: 320px;
+    height: 120px;
+    background: #010101;
+}
+
+.header__wrapper-niz{
+    width: 320px;
+    height: 22px;
+    background: #FFEB54;
+}
 
 
 .header__list{
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 .header__item{
-    margin-right: 60px;
+    margin-right: 50px;
 }
 
-.header__item: last-child{
-    margin-right: 0;
+.header__list: last-child{
+    margin: 20px;
 }
 
 .header__link{
@@ -471,12 +489,14 @@ body{
 }
 
 .header__logo-pic{
+    margin-top: 100px;
     order: 0;
     margin-left: 30px;
-    margin-top: 45px;
+
 }
 
 .header__title{
+
     font-family: Montserrat;
     max-width: 417px;
     order: 1;
@@ -484,9 +504,11 @@ body{
     font-size: 40px;
     line-height: 49px;
     margin-right: 170px;
+    align-content: center;
 }
 
 .header__ikonki{
+    margin-top: 60px;
     order: 2;
     margin-right: 30px;
 }
@@ -500,6 +522,8 @@ body{
 }
 
 .header__title-3{
+    margin-bottom: 100px;
+    margin-left: 50px;
     width: 550px;
     height: 33px;
     font-style: normal;
@@ -509,6 +533,7 @@ body{
 }
 
 .line{
+    margin-bottom: -35px;
     width: 800px;
     height: 0px;
     border: 2px solid rgba(0, 0, 0, 0.5);
@@ -516,8 +541,8 @@ body{
 }
 
 .header__title-1{
-    margin-top: 40px;
-}
+    margin-left: 50px;
+    margin-top: 90px;
+    margin-bottom: -40px;
 
-.header__title-2{
 }
