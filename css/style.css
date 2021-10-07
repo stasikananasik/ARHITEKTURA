@@ -404,10 +404,13 @@ textarea {
 }
 
 body{
+    background-color: #AA55AA;
+    background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
-
 }
+
+
 
 
 .wrapper {
@@ -416,6 +419,7 @@ body{
     margin:0 auto;
     background: url(../img/certjoz.jpg) no-repeat;
 }
+
 .header__wraper{
     display: flex;
     max-width:1024px;
@@ -468,7 +472,7 @@ body{
 }
 
 .header__list: last-child{
-    margin: 20px;
+    margin-right: 20px;
 }
 
 .header__link{
@@ -477,6 +481,7 @@ body{
     color: #000000;
     text-decoration: none;
 }
+
 
 .header__link:hover, .header__link:focus, .header__link:active{
     opacity: .75;
@@ -552,7 +557,13 @@ body{
     margin-left: 50px;
     margin-top: 90px;
     margin-bottom: -40px;
-
 }
+
+.wrapper2{
+    width: 900px;
+    height: 559px;
+    margin: 0 auto;
+}
+
 
 
