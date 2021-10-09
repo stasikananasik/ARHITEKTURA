@@ -404,7 +404,7 @@ textarea {
 }
 
 body{
-    background-color: #AA55AA;
+
     background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
@@ -593,7 +593,7 @@ body{
 }
 
 .fitnes__klub{
-    width: 711px;
+    max-width: 711px;
     height: 66px;
     background: #C4C4C4;
     position: relative;
@@ -614,7 +614,7 @@ body{
 }
 
 .fitnes__klub-kont-2{
-    width: 711px;
+    max-width: 711px;
     height: 537px;
     background: #FFFFFF;
     position: relative;
@@ -635,4 +635,155 @@ body{
     padding-top: 20px;
 }
 
+.seraja__linija{
+    max-width: 1024px;
+    height: 398px;
+    background: #C4C4C4;
+    position: relative;
+    left: 440px;
+    bottom: 1180px;
+}
 
+.zoltaja__linija{
+    max-width: 1024px;
+    height: 66px;
+    background: #FFEB54; 
+    position: relative;
+    left: 440px;
+    bottom: 1360px; 
+
+}
+
+.zoltaja__linija-text{
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+color: #000000;
+display: block; 
+margin-left: 280px; 
+padding-top: 14px;
+}
+
+
+.seraja__linija2 {
+    z-index: 1;
+
+max-width: 1024px; 
+position: relative; 
+height: 470px; 
+bottom:1360px; 
+left: 440px;
+background: rgba(0, 0, 0, 0.35);
+
+
+
+}
+.seraja__linija2-text {
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+display: block; 
+margin-left: 280px; 
+margin-right: 250px; 
+padding-top: 10px;  
+}
+
+.fotki__litva {
+    z-index: 2;
+max-width: 903px; 
+height: 600px;
+bottom: 1738px;
+left: 561px;
+position: relative; 
+
+
+}
+.fotki__litva-1 {}
+.litva__foto {}
+
+
+.ser__block{
+
+max-width: 1024px;
+height: 1699px;
+background: #C4C4C4;
+position: relative;
+left: 440px;
+bottom: 2316px;
+
+}
+
+.otelj__mariot{
+width: 1024px;
+height: 66px;
+background: rgba(1, 1, 1, 0.35);
+position: relative;
+left: 440px;
+bottom: 3320px;
+}
+
+.otelj__mariot-1{
+font-family: Montserrat;
+font-style: 700;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+padding-top: 14px;
+margin-left: 121px;
+}
+
+
+.fotki__otelja {
+max-width: 670px;
+height: 431.06px;
+position: relative;
+left: 440px;
+bottom: 3320px;
+
+
+}
+.fotki__otelja-1 {
+
+
+
+}
+.otelja__foto {
+
+
+
+}
+
+
+.belij_block {
+max-width: 354px;
+height: 476px;
+background: #FFFFFF;
+position: relative;
+left: 1110px;
+bottom: 3751.06px;
+
+}
+.belij__block-text {
+width: 336px;
+height: 90px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+display: block;
+margin-left: 9px;
+padding-top: 71px;
+margin-right: 9px;
+
+
+
+}
