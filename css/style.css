@@ -404,10 +404,13 @@ textarea {
 }
 
 body{
+
+    background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
-
 }
+
+
 
 
 .wrapper {
@@ -416,6 +419,7 @@ body{
     margin:0 auto;
     background: url(../img/certjoz.jpg) no-repeat;
 }
+
 .header__wraper{
     display: flex;
     max-width:1024px;
@@ -468,7 +472,7 @@ body{
 }
 
 .header__list: last-child{
-    margin: 20px;
+    margin-right: 20px;
 }
 
 .header__link{
@@ -477,6 +481,7 @@ body{
     color: #000000;
     text-decoration: none;
 }
+
 
 .header__link:hover, .header__link:focus, .header__link:active{
     opacity: .75;
@@ -552,7 +557,233 @@ body{
     margin-left: 50px;
     margin-top: 90px;
     margin-bottom: -40px;
+}
+
+.poslednie__proekti{
+    width: 751px;
+    height: 613px;
+    background: #FFEB54;
+    margin: 0 auto;
+    position: relative;
+    right: 136px;
+    bottom: 102px;
+
+}
+
+.wrapper2{
+    width: 900px;
+    height: 559px;
+    margin: 0 auto;
+    position: relative;
+    right: 62px;
+    bottom: 1025px;
+    z-index: 1;
+}
+
+.poslednie__proekti-kont{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    display: block;
+    margin-left: 160px;
+    padding-top: 30px;
+
+}
+
+.fitnes__klub{
+    max-width: 711px;
+    height: 66px;
+    background: #C4C4C4;
+    position: relative;
+    left: 753px;
+    bottom: 613px;
+}
+
+.fitnes__klub-kont{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    color: #000000;
+    display: block;
+    margin-left: 160px;
+    padding-top: 15px;
+}
+
+.fitnes__klub-kont-2{
+    max-width: 711px;
+    height: 537px;
+    background: #FFFFFF;
+    position: relative;
+    left: 753px;
+    bottom: 613px;
+}
+
+.fitnes__klub-kont-3{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    display: block;
+    margin-left: 160px;
+    margin-right: 30px;
+    padding-top: 20px;
+}
+
+.seraja__linija{
+    max-width: 1024px;
+    height: 398px;
+    background: #C4C4C4;
+    position: relative;
+    left: 440px;
+    bottom: 1180px;
+}
+
+.zoltaja__linija{
+    max-width: 1024px;
+    height: 66px;
+    background: #FFEB54; 
+    position: relative;
+    left: 440px;
+    bottom: 1360px; 
+
+}
+
+.zoltaja__linija-text{
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+color: #000000;
+display: block; 
+margin-left: 280px; 
+padding-top: 14px;
+}
+
+
+.seraja__linija2 {
+    z-index: 1;
+
+max-width: 1024px; 
+position: relative; 
+height: 470px; 
+bottom:1360px; 
+left: 440px;
+background: rgba(0, 0, 0, 0.35);
+
+
+
+}
+.seraja__linija2-text {
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+display: block; 
+margin-left: 280px; 
+margin-right: 250px; 
+padding-top: 10px;  
+}
+
+.fotki__litva {
+    z-index: 2;
+max-width: 903px; 
+height: 600px;
+bottom: 1738px;
+left: 561px;
+position: relative; 
+
+
+}
+.fotki__litva-1 {}
+.litva__foto {}
+
+
+.ser__block{
+
+max-width: 1024px;
+height: 1699px;
+background: #C4C4C4;
+position: relative;
+left: 440px;
+bottom: 2316px;
+
+}
+
+.otelj__mariot{
+width: 1024px;
+height: 66px;
+background: rgba(1, 1, 1, 0.35);
+position: relative;
+left: 440px;
+bottom: 3320px;
+}
+
+.otelj__mariot-1{
+font-family: Montserrat;
+font-style: 700;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+padding-top: 14px;
+margin-left: 121px;
+}
+
+
+.fotki__otelja {
+max-width: 670px;
+height: 431.06px;
+position: relative;
+left: 440px;
+bottom: 3320px;
+
+
+}
+.fotki__otelja-1 {
+
+
+
+}
+.otelja__foto {
+
+
 
 }
 
 
+.belij_block {
+max-width: 354px;
+height: 476px;
+background: #FFFFFF;
+position: relative;
+left: 1110px;
+bottom: 3751.06px;
+
+}
+.belij__block-text {
+width: 336px;
+height: 90px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+display: block;
+margin-left: 9px;
+padding-top: 71px;
+margin-right: 9px;
+
+
+
+}
