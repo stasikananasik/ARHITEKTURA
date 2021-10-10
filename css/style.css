@@ -408,7 +408,7 @@ body{
     background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
-    background: #90E17C;
+    background: #E14231;
 }
 
 
@@ -747,6 +747,7 @@ max-width: 670px;
 height: 431.06px;
 position: relative;
 bottom: 3320px;
+z-index: 1;
 
 
 }
@@ -774,7 +775,6 @@ bottom: 3751.06px;
 .belij__block-text {
 width: 336px;
 height: 90px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
@@ -785,8 +785,32 @@ display: block;
 margin-left: 9px;
 padding-top: 71px;
 margin-right: 9px;
+}
 
+.zeljonij__prjamougolnik {
+    max-width: 1024px;
+    height: 494px;
+    background: #B3C87B;
+    position: relative;
+    bottom: 3850px;
+}
 
+.fotki__restik {
+    max-width: 692px;
+    height: 460px;
+    position: relative;
+    bottom: 4243px;
+    margin-left: 332px;
+}
+.fotki__restik-1 {}
+.restik__foto {}
+
+.zoltij__prjam{
+    max-width: 332px;
+    height: 68px;
+    background: #FFEB54;
+    position: relative;
+    bottom: 4311px;
 
 }
 
