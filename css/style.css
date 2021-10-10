@@ -408,6 +408,7 @@ body{
     background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
+    background: #E14231;
 }
 
 
@@ -559,6 +560,12 @@ body{
     margin-bottom: -40px;
 }
 
+/*Nasi poslednie raboti start*/
+
+.proekti__end{
+    max-width: 1024px;
+    margin: 0 auto;
+}
 .poslednie__proekti{
     width: 751px;
     height: 613px;
@@ -597,7 +604,7 @@ body{
     height: 66px;
     background: #C4C4C4;
     position: relative;
-    left: 753px;
+    left: 313px;
     bottom: 613px;
 }
 
@@ -618,7 +625,7 @@ body{
     height: 537px;
     background: #FFFFFF;
     position: relative;
-    left: 753px;
+    left: 313px;
     bottom: 613px;
 }
 
@@ -640,7 +647,6 @@ body{
     height: 398px;
     background: #C4C4C4;
     position: relative;
-    left: 440px;
     bottom: 1180px;
 }
 
@@ -649,7 +655,6 @@ body{
     height: 66px;
     background: #FFEB54; 
     position: relative;
-    left: 440px;
     bottom: 1360px; 
 
 }
@@ -675,7 +680,6 @@ max-width: 1024px;
 position: relative; 
 height: 470px; 
 bottom:1360px; 
-left: 440px;
 background: rgba(0, 0, 0, 0.35);
 
 
@@ -698,9 +702,10 @@ padding-top: 10px;
     z-index: 2;
 max-width: 903px; 
 height: 600px;
+position: relative;
 bottom: 1738px;
-left: 561px;
-position: relative; 
+left: 121px;
+
 
 
 }
@@ -714,7 +719,6 @@ max-width: 1024px;
 height: 1699px;
 background: #C4C4C4;
 position: relative;
-left: 440px;
 bottom: 2316px;
 
 }
@@ -724,7 +728,6 @@ width: 1024px;
 height: 66px;
 background: rgba(1, 1, 1, 0.35);
 position: relative;
-left: 440px;
 bottom: 3320px;
 }
 
@@ -743,8 +746,8 @@ margin-left: 121px;
 max-width: 670px;
 height: 431.06px;
 position: relative;
-left: 440px;
 bottom: 3320px;
+z-index: 1;
 
 
 }
@@ -765,14 +768,13 @@ max-width: 354px;
 height: 476px;
 background: #FFFFFF;
 position: relative;
-left: 1110px;
+left: 670px;
 bottom: 3751.06px;
 
 }
 .belij__block-text {
 width: 336px;
 height: 90px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
@@ -783,7 +785,116 @@ display: block;
 margin-left: 9px;
 padding-top: 71px;
 margin-right: 9px;
+}
+
+.zeljonij__prjamougolnik {
+    max-width: 1024px;
+    height: 494px;
+    background: #B3C87B;
+    position: relative;
+    bottom: 3850px;
+}
+
+.fotki__restik {
+    max-width: 692px;
+    height: 460px;
+    position: relative;
+    bottom: 4243px;
+    margin-left: 332px;
+}
+.fotki__restik-1 {}
+.restik__foto {}
+
+.zoltij__prjam{
+    max-width: 332px;
+    height: 68px;
+    background: #FFEB54;
+    position: relative;
+    bottom: 4311px;
+
+}
+
+.bolshoj__beljij-1{
+
+max-width: 1024px;
+height: 1103px;
+bottom: 4311px;
+background: white;
+position: relative;
+
+}
+
+.seraja__linija-saulkraste {
+
+
+max-width: 1024px;
+height: 100px;
+background: rgba(0, 0, 0, 0.35);
+position: relative;
+bottom: 5414px;
+}
+
+.seraja__linija-saulkraste-text {
+
+width: 423px;
+height: 37px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+color: #000000;
+left: 140px;
+position: relative;
+bottom: -44px;
+
+
+}
+
+.serij__block-kotedzh-saulkraste {
+position: relative;
+z-index: 6;
+width: 900px;
+height: 214px;
+background: #A6A6A6;
+bottom: 5414px;
+}
+.serij__block-kotedzh-saulkraste-text {
+
+width: 341px;
+height: 18px;
+position: relative;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+left: 140px;
+color: #000000;
+bottom: -83px;
+
+}
+
+
+.fotki__saulkraste-dom {
+
+bottom: 5414px;
+
+position: relative;
+
+}
+.fotki__saulkraste-dom-1 {
 
 
 
 }
+
+.samij__niz-ogo{
+
+
+    
+}
+
+
+/* Nasi poslednie raboti end */
