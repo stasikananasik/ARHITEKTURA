@@ -862,7 +862,7 @@ bottom: 5414px;
 }
 .serij__block-kotedzh-saulkraste-text {
 
-width: 341px;
+max-width: 341px;
 height: 18px;
 position: relative;
 font-family: Montserrat;
@@ -891,9 +891,58 @@ position: relative;
 }
 
 .samij__niz-ogo{
-
-
+max-width: 696px;
+height: 66px;
+position: relative;
+bottom: 5287px;
+background: #878585;
     
+}
+
+.samij__niz-ogo-text-1{
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #000000;
+display: block;
+margin-left: 20px;
+padding-top: 10px;
+
+}
+
+.samij__niz-ogo-text-2{
+font-family: Oxygen;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 19px;
+color: #000000;
+display: block;
+margin-left: 35px;
+
+}
+
+.samij__niz-zoltij {
+max-width: 443px;
+height: 100px;
+position: relative;
+bottom: 5387px;
+left: 581px;
+background: #FFEB54;
+clip-path: polygon(0 0, 443px 0, 443px 100px, 100px 100px);
+}
+.samij__niz-zoltij-text {
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+display: block;
+margin-left: 168px;
+padding-top: 32px;
 }
 
 
