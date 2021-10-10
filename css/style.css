@@ -408,6 +408,7 @@ body{
     background-size: 100%;
     font-family: "Montserrat";
     font-style: normal;
+    background: #90E17C;
 }
 
 
@@ -559,6 +560,12 @@ body{
     margin-bottom: -40px;
 }
 
+/*Nasi poslednie raboti start*/
+
+.proekti__end{
+    max-width: 1024px;
+    margin: 0 auto;
+}
 .poslednie__proekti{
     width: 751px;
     height: 613px;
@@ -597,7 +604,7 @@ body{
     height: 66px;
     background: #C4C4C4;
     position: relative;
-    left: 753px;
+    left: 313px;
     bottom: 613px;
 }
 
@@ -618,7 +625,7 @@ body{
     height: 537px;
     background: #FFFFFF;
     position: relative;
-    left: 753px;
+    left: 313px;
     bottom: 613px;
 }
 
@@ -640,7 +647,6 @@ body{
     height: 398px;
     background: #C4C4C4;
     position: relative;
-    left: 440px;
     bottom: 1180px;
 }
 
@@ -649,7 +655,6 @@ body{
     height: 66px;
     background: #FFEB54; 
     position: relative;
-    left: 440px;
     bottom: 1360px; 
 
 }
@@ -675,7 +680,6 @@ max-width: 1024px;
 position: relative; 
 height: 470px; 
 bottom:1360px; 
-left: 440px;
 background: rgba(0, 0, 0, 0.35);
 
 
@@ -698,9 +702,10 @@ padding-top: 10px;
     z-index: 2;
 max-width: 903px; 
 height: 600px;
+position: relative;
 bottom: 1738px;
-left: 561px;
-position: relative; 
+left: 121px;
+
 
 
 }
@@ -714,7 +719,6 @@ max-width: 1024px;
 height: 1699px;
 background: #C4C4C4;
 position: relative;
-left: 440px;
 bottom: 2316px;
 
 }
@@ -724,7 +728,6 @@ width: 1024px;
 height: 66px;
 background: rgba(1, 1, 1, 0.35);
 position: relative;
-left: 440px;
 bottom: 3320px;
 }
 
@@ -743,7 +746,6 @@ margin-left: 121px;
 max-width: 670px;
 height: 431.06px;
 position: relative;
-left: 440px;
 bottom: 3320px;
 
 
@@ -765,7 +767,7 @@ max-width: 354px;
 height: 476px;
 background: #FFFFFF;
 position: relative;
-left: 1110px;
+left: 670px;
 bottom: 3751.06px;
 
 }
@@ -787,3 +789,5 @@ margin-right: 9px;
 
 
 }
+
+/* Nasi poslednie raboti end */
