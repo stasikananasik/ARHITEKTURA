@@ -488,6 +488,7 @@ body{
 .header__link:hover, .header__link:focus, .header__link:active{
     opacity: .75;
     text-decoration: underline;
+
 }
 .ikonki__link:hover, .ikonki__link:focus{
     opacity: .75;
@@ -945,6 +946,20 @@ display: block;
 margin-left: 168px;
 padding-top: 32px;
 }
+
+.seraja__huina{
+
+position: relative;
+max-width: 878.48px;
+height: 116.71px;
+background: rgba(0, 0, 0, 0.5);
+z-index: 7;
+left: 146px;
+bottom: 9867px;
+
+}
+
+
 
 
 /* Nasi poslednie raboti end */
