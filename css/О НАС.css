@@ -710,13 +710,10 @@ top: 10px;
 bottom: 1018px;
 position: relative;
 left: 355px;
-<<<<<<< HEAD
 z-index: 5;
-=======
 z-index: 1;
 max-width: 670px;
 height: 446.67px;
->>>>>>> d4c33fbba47741d8685a71484c61b1ba99f6b2dd
 }
 .foto__tjeti-1 {
 
@@ -729,7 +726,6 @@ max-width: 600px;
 height: 667px;
 position: relative;
 background: #FFEB54;
-left: 1px;
 }
 
 .zheltij__block-text {
@@ -778,7 +774,6 @@ color: #000000;
 }
 
 .zheltij__block-3-text {
-<<<<<<< HEAD
 position: relative;
 max-width: 254px;
 height: 63px;
@@ -797,11 +792,6 @@ position: relative;
 max-width: 565px;
 height: 63px;
 left: 30px;
-=======
-max-width: 247px;
-height: 63px;
-position: absolute;
->>>>>>> d4c33fbba47741d8685a71484c61b1ba99f6b2dd
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
@@ -809,9 +799,6 @@ font-size: 18px;
 line-height: 22px;
 top: 200px;
 color: #000000;
-<<<<<<< HEAD
-}
-=======
 }
 
 .serij___blok-domenik {
@@ -822,9 +809,9 @@ background: #C4C4C4;
 left: 601px;
 bottom: 1685px;
 }
-.serij__blok-domenik-text {
 
-width: 145px;
+.serij__blok-domenik-text {
+max-width: 145px;
 height: 24px;
 position: relative;
 font-family: Montserrat;
@@ -839,19 +826,18 @@ right: 140px;
 color: #000000;
 }
 
-
 .ogromenij__serij-block {
-
-width: 1024px;
+max-width: 1024px;
 height: 579px;
 position: relative;
 background: #C4C4C4;
 bottom: 1685px;
 left: 1px;
 }
+
 .ogromenij__serij-block-text {
 z-index: 2;
-width: 389px;
+max-width: 389px;
 height: 242px;
 position: relative;
 font-family: Montserrat;
@@ -863,10 +849,10 @@ left: 617px;
 top: 24px;
 color: #000000;
 }
-.ogromenij__serij-block-text-1 {
 
+.ogromenij__serij-block-text-1 {
 z-index: 2;
-width: 389px;
+max-width: 389px;
 height: 242px;
 position: relative;
 font-family: Montserrat;
@@ -875,18 +861,16 @@ font-weight: normal;
 font-size: 18px;
 line-height: 22px;
 left: 617px;
-bottom: 313px;
+top: 10px;
 color: #000000;
-
 }
-
-
 
 .foto__kitajozi {
-    left: 1px;
-    position: relative;
-    bottom: 2264px;
+left: 1px;
+position: relative;
+bottom: 2264px;
 }
+
 .foto_kitajozi-1 {}
 
 .samij__niz-ogo{
@@ -896,7 +880,6 @@ position: relative;
 bottom: 2200px;
 background: #878585;
 left: 1px;
-    
 }
 
 .samij__niz-ogo-text-1{
@@ -909,7 +892,6 @@ color: #000000;
 display: block;
 margin-left: 20px;
 padding-top: 10px;
-
 }
 
 .samij__niz-ogo-text-2{
@@ -921,7 +903,6 @@ line-height: 19px;
 color: #000000;
 display: block;
 margin-left: 35px;
-
 }
 
 .samij__niz-zoltij {
@@ -933,6 +914,7 @@ left: 582px;
 background: #FFEB54;
 clip-path: polygon(0 0, 443px 0, 443px 100px, 100px 100px);
 }
+
 .samij__niz-zoltij-text {
 font-family: Montserrat;
 font-style: normal;
@@ -944,4 +926,3 @@ display: block;
 margin-left: 168px;
 padding-top: 32px;
 }
->>>>>>> d4c33fbba47741d8685a71484c61b1ba99f6b2dd
