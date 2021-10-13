@@ -410,6 +410,10 @@ body{
     font-style: normal;
     background: #E14231;
 }
+
+
+
+
 .wrapper {
     max-width:1024px;
     height: 685px;
@@ -426,9 +430,10 @@ body{
 
 }
 .header__wraper-center{
-    width: 800px;
+    width: 1024px;
     height: 30px;
     background: rgba(196, 196, 196, 0.8);
+    position: relative;
 }
 
 .header__wrapper-1{
@@ -456,6 +461,7 @@ body{
     background: #FFEB54;
         clip-path: polygon(0 0, 320px 0, 344px 22px, 0 22px);
 }
+
 
 .header__list{
     display: flex;
@@ -556,13 +562,17 @@ body{
     margin-bottom: -40px;
 }
 
+.start{
+max-width: 1024px;
+margin: 0 auto;
+}
+
 .seraja__linija-o-nas {
-    
     max-width: 565px;
     background: rgba(0, 0, 0, 0.7);
     height: 54px;
     position: relative;
-    bottom: -100px;
+    bottom: 360px;
 
 }
 .seraja__linija-o-nas-text {
@@ -580,21 +590,15 @@ left: 242px;
 bottom: -12px;
 }
 
-.pervij__serij-block{
-z-index: 1;
-top: 189px;
-width: 1024px;
-height: 312px;
-background: rgba(0, 0, 0, 0.5);
-position: relative;
-}
+
 .seraja__fignja-pod-blockom-1 {
 position: relative;
-width: 1024px;
-height: 759px;
-background: #C4C4C4;
-bottom: 123px;
+max-width: 1024px;
+height: 650px;
+background:#676767;
+bottom: 201px;
 }
+
 .seraja__figna-pod-blockom-1-text {
 width: 1024px;
 height: 250px;
