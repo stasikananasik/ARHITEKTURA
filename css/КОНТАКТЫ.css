@@ -402,7 +402,142 @@ textarea {
        url('../fonts/montserrat-v18-latin_cyrillic-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/montserrat-v18-latin_cyrillic-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+/* roboto-100 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-100italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-100italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-100italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-300italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-300italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-900 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-900italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  src: local(''),
+       url('../fonts/roboto-v29-latin-900italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v29-latin-900italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 
+/* oxygen-300 - latin */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/oxygen-v10-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/oxygen-v10-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* oxygen-regular - latin */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/oxygen-v10-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/oxygen-v10-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* oxygen-700 - latin */
+@font-face {
+  font-family: 'Oxygen';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/oxygen-v10-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/oxygen-v10-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
 body{
 
     background-size: 100%;
@@ -415,10 +550,10 @@ body{
 
 
 .wrapper {
-    max-width:1024px;
-    height: 685px;
+max-width: 1024px;
+height: 682.67px;
     margin:0 auto;
-    background: url(../img/miziki.jpg) no-repeat;
+    background: url(../img/kontakti.jpg) no-repeat;
 }
 
 .header__wraper{
@@ -562,327 +697,330 @@ body{
     margin-bottom: -40px;
 }
 
-.start{
-max-width: 1024px;
-margin: 0 auto;
-}
+.zheltij__block-melkiy {
 
-.seraja__linija-o-nas {
-    max-width: 565px;
-    background: rgba(0, 0, 0, 0.7);
-    height: 54px;
-    position: relative;
-    bottom: 360px;
-
-}
-.seraja__linija-o-nas-text {
-width: 82px;
-height: 29px;
-z-index: 1;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 29px;
-position: relative;
-color: #E5E5E5;
-left: 242px;
-bottom: -12px;
-}
-
-
-.seraja__fignja-pod-blockom-1 {
-position: relative;
-max-width: 1024px;
-height: 650px;
-background:#676767;
-bottom: 201px;
-}
-
-.seraja__figna-pod-blockom-1-text {
-width: 1024px;
-height: 250px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 22px;
-line-height: 26,82px;
-left: 19px;
-position: relative;
-top: 6px;
-color: #000000;
-}
-
-.foto__pacanchika {
-    position: relative;
-    bottom: 570px;
-}
-.foto__pacanchika1 {
-
-}
-.zelenaja__herobora {
-
-width: 354px;
-height: 447px;
-position: relative;
-background: #B3C87B;
-left: 670px;
-bottom: 1018px;
-}
-.zelenaja__herebora-text {
-width: 211px;
-height: 24px;
-position: relative;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 20px;
-line-height: 24px;
-left: 64px;
-top: 43px;
-right: 79px;
-bottom: 380px;
-color: #000000;
-
-
-}
-.zelenaja__herobora-podkontext {
-position: relative;
-width: 224px;
-height: 22px;
-top: 139px;
-left: 8px;
-right: 122px;
-bottom: 286px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-color: #000000;
-
-}
-.zelenaja__herobora-podkontext-2 {
-width: 337px;
-height: 44px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-position: relative;
-left: 8px;
-right: 9px;
-top: 201px;
-bottom: 202px;
-color: #000000;
-
-}
-.zelenaja__herobora-podkontext-3 {
-color: #000000;
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-position: relative;
-left: 8px;
-top: 290px;
-
-}
-.zelenaja__herobora-bolsaja {
-width: 1024px;
-height: 91px;
-position: relative;
-background: #B3C87B;
-bottom: 1018px;
-
-}
-.zelenaja__herobora-bolsaja-text {
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-left: 9px;
-position: relative;
-top: 10px;
-
-}
-
-.foto__tjeti {
-bottom: 1018px;
-position: relative;
-left: 355px;
-z-index: 5;
-z-index: 1;
-max-width: 670px;
-height: 446.67px;
-}
-.foto__tjeti-1 {
-
-
-}
-
-.zheltij__block {
-bottom: 1465px;
-max-width: 600px;
-height: 667px;
+max-width: 396px;
+height: 312px;
 position: relative;
 background: #FFEB54;
+top: 150px;
+left: 628px;
 }
+.zheltij__block-melkiy-text {
 
-.zheltij__block-text {
-max-width: 192px;
-height: 24px;
-display: block;
+width: 416px;
+height: 238px;
 position: relative;
 font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 24px;
-left: 90px;
-top: 40px;
+top: 48px;
+left: 26px;
 color: #000000;
+
 
 }
 
-.zheltij__block-1-text {
+.kontakti-text {
 
-max-width: 184px;
-height: 44px;
+width: 138px;
+height: 35px;
 position: relative;
-font-family: Montserrat;
+left: 24px;
+font-family: Roboto;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-left: 30px;
-top: 80px;
+font-size: 30px;
+line-height: 35px;
+top: 126px;
 color: #000000;
+
+
 }
 
-.zheltij__block-2-text {
-
-max-width: 251px;
-height: 90px;
+.ogromenij__belij__block-123{
+width: 1024px;
+height: 2715px;
 position: relative;
-font-family: Montserrat;
+background: #FFFCFC;
+bottom: 642px;
+z-index: -1;
+}
+
+.linija{
+
+width: 1000px;
+height: 0px;
+position: relative;
+border: 1px solid #000000;
+bottom: 2550px;
+left: 12px;
+}
+
+.pod__linijej-the {
+width: 282px;
+height: 27px;
+position: relative;
+font-family: Roboto;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-left: 30px;
-top: 105px;
+font-size: 25px;
+line-height: 29px;
+left: 24px;
 color: #000000;
+bottom: 2520px;
 }
 
-.zheltij__block-3-text {
+.pod__linijej-jkp {
+
+width: 112px;
+height: 82px;
 position: relative;
-max-width: 254px;
-height: 63px;
-left: 30px;
-font-family: Montserrat;
+font-family: Roboto;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-top: 123px;
+font-size: 25px;
+line-height: 29px;
+bottom: 2510px;
 color: #000000;
+left: 24px;
 }
 
-.zheltij__block-4-text{
+.info__inbox{
+width: 288px;
+height: 50px;
 position: relative;
-max-width: 565px;
-height: 63px;
-left: 30px;
-font-family: Montserrat;
+font-family: Oxygen;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-top: 200px;
+font-size: 15px;
+line-height: 19px;
+left: 27px;
+bottom: 2520px;
 color: #000000;
 }
 
-.serij___blok-domenik {
-max-width: 424px;
-height: 220px;
+.www__com {
+width: 469px;
+height: 25px;
 position: relative;
-background: #C4C4C4;
-left: 601px;
-bottom: 1685px;
-}
-
-.serij__blok-domenik-text {
-max-width: 145px;
-height: 24px;
-position: relative;
-font-family: Montserrat;
+font-family: Oxygen;
 font-style: normal;
 font-weight: normal;
-font-size: 20px;
-line-height: 24px;
-left: 139px;
-top: 118px;
-bottom: 78px;
-right: 140px;
+font-size: 15px;
+line-height: 19px;
+bottom: 2515px;
+left: 27px;
 color: #000000;
+
 }
 
-.ogromenij__serij-block {
-max-width: 1024px;
-height: 579px;
+.telefon__svg {
+
 position: relative;
-background: #C4C4C4;
-bottom: 1685px;
-left: 1px;
+bottom: 2485px;
+left: 27px;
 }
 
-.ogromenij__serij-block-text {
-z-index: 2;
-max-width: 389px;
-height: 242px;
+
+.pervij__nomer{
+
+width: 105px;
+height: 18px;
 position: relative;
-font-family: Montserrat;
+font-family: Roboto;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-left: 617px;
-top: 24px;
+font-size: 15px;
+line-height: 18px;
+bottom: 2528px;
+left: 83px;
+
 color: #000000;
 }
 
-.ogromenij__serij-block-text-1 {
-z-index: 2;
-max-width: 389px;
-height: 242px;
+.vtoroj__nomer {
+width: 105px;
+height: 18px;
 position: relative;
-font-family: Montserrat;
+font-family: Roboto;
 font-style: normal;
 font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-left: 617px;
-top: 10px;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+bottom: 2524px;
+left: 83px;
+color: #000000;
+
+
+}
+
+.lokacija__svg {
+position: relative;
+bottom: 2490px;
+left: 32px;
+}
+
+.lokacija-text{
+width: 242px;
+height: 54px;
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+left: 77px;
+color: #000000;
+bottom: 2525px;
+}
+
+
+.svezatsja__s-nami{
+
+width: 210px;
+height: 29px;
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+left: 668px;
+color: #000000;
+bottom: 2860px;
+}
+
+.vashe__imja{
+width: 76px;
+height: 18px;
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+left: 531px;
+bottom: 2810px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+
+.vashe__imja-seraja-ebanina{
+width: 422px;
+left: 527px;
+height: 46px;
+position: relative;
+background: #EFEFEF;
+bottom: 2810px;
+}
+
+.pochta{
+
+width: 148px;
+height: 18px;
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+bottom: 2762px;
+left: 531px;
+
+
 color: #000000;
 }
 
-.foto__kitajozi {
-left: 1px;
+.pochta-seraja-ebanina {
+width: 422px;
+height: 46px;
 position: relative;
-bottom: 2264px;
+background: #EFEFEF;
+bottom: 2762px;
+left: 527px;
+
 }
 
-.foto_kitajozi-1 {}
+.vashe__soobshenije {
+width: 127px;
+height: 18px;
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+left: 531px;
+bottom: 2706px;
+
+color: #000000;
+
+
+}
+
+.vashe__soobshenije-seraja{
+width: 422px;
+height: 295px;
+position: relative;
+background: #EFEFEF;
+bottom: 2706px;
+left: 531px;
+
+
+}
+
+.knopka__otpravit {
+
+width: 205px;
+height: 45px;
+position: relative;
+background: linear-gradient(91.52deg, rgba(7, 7, 7, 0.87) -22.57%, rgba(34, 33, 33, 0.6) 156.78%);
+border-radius: 10px;
+bottom: 2654px;
+left: 620px;
+}
+
+.knopka__otpravit-text{
+color: #B9B9B9;
+bottom: 2684px;
+position: relative;
+width: 116px;
+height: 23px;
+left: 670px;
+}
+
+
+.foto__karta {
+position: relative;
+bottom: 2600px;
+left: 12px;
+
+}
+
+.foto__v-konce{
+
+position: relative;
+bottom: 2552px;
+
+}
+
 .samij__niz-ogo{
 max-width: 696px;
 height: 66px;
 position: relative;
-bottom: 2200px;
+bottom: 2618px;
 background: #878585;
-left: 1px;
+left: 0px;
+z-index: 20000;
 }
 
 .samij__niz-ogo-text-1{
@@ -912,10 +1050,11 @@ margin-left: 35px;
 max-width: 443px;
 height: 100px;
 position: relative;
-bottom: 2300px;
+bottom: 2719px;
 left: 582px;
 background: #FFEB54;
 clip-path: polygon(0 0, 443px 0, 443px 100px, 100px 100px);
+z-index: 300000000000;
 }
 
 .samij__niz-zoltij-text {
@@ -929,4 +1068,3 @@ display: block;
 margin-left: 168px;
 padding-top: 32px;
 }
-.
