@@ -973,11 +973,10 @@ color: #B9B9B9;
 
 }
 
-
-.foto__karta{
-position: relative;
-bottom: 2910px;
-left: 12px;
+.container{
+    position: relative;
+    bottom: 2900px;
+    padding-left: 12px;
 }
 
 .foto__v-konce{
